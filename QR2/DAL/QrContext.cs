@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using QR2.Models;
+using QR2.Utilities;
 
 namespace QR2.DAL;
 

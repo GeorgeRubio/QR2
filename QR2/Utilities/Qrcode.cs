@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using QR2.Models;
 
-namespace QR2.Models;
+namespace QR2.Utilities;
 
 public partial class Qrcode
 {

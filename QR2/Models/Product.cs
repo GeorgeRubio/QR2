@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using QR2.Utilities;
 
 namespace QR2.Models;
 
